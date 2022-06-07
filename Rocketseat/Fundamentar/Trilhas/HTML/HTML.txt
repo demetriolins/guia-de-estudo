@@ -1,0 +1,23 @@
+Guia Estelar de HTML
+2h12min em 42 aulas:
+
+O conteúdo esclarece plugin de preview HTML, 
+- tags, 
+- atributos, 
+- semântica, 
+- listas, 
+- abreviações, 
+- listas, 
+- representação de código, 
+- URLs, 
+- diretórios, 
+- tabelas, 
+- THead, 
+- TBody, 
+- colgroup, 
+- cabeçalho, 
+- meta, 
+- favicon, 
+- meta SEO 
+- meta social.
+

@@ -1,0 +1,35 @@
+
+1
+Guia Estelar de CSS
+54min em 16 aulas
+
+O conteúdo aborda anatomia, 
+seletores, 
+box model, 
+cascata, 
+especificidade, 
+Shorthand, 
+funções, 
+DevTools
+vendor prefixes.
+
+2
+Nem tudo são Pixels
+22min em 8 aulas
+
+Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, 
+aprender sobre todas unidades e possibilidades.
+
+3
+Uma caixa dentro da outra
+33min em 7 aulas
+
+Um dos conceitos mais importantes do CSS, 
+o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
+
+
+Agora sim, cores
+28min em 19 aulas
+
+Vamos dar mais vida à nossa página. Conhecer mais sobre cores, 
+hexadecimal, rgb, hsl, background, além das imagens de fundo.

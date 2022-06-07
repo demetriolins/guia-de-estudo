@@ -1,0 +1,73 @@
+
+Introdução a criação de websites com HTML5 e CSS3
+Básico
+6 hrs
+
+Posicionando elementos com Flexbox em CSS
+Básico
+4 hrs
+
+Recriando a página inicial do Instagram
+Basico
+1 hrs
+
+
+INTRODUÇÃO AO JAVA SCRIPT
+
+Básico
+3 hrs
+
+Sintaxe e Operadores
+Básico
+2 hrs
+
+Variáveis e Tipos
+Básico
+3 hrs
+
+Funções
+Básico
+1 hrs
+
+Coleções
+Básico
+1 hrs
+
+Map, Filter e Reduce
+Básico
+2 hrs
+
+Debugging e Error Handling
+Básico
+2 hrs
+
+Javascript Assíncrono
+Básico
+1 hrs
+================================
+ORIENTAÇÃO A OBJETO (OO)
+
+Básico
+1 hrs
+
+Desafios Iniciais Js - Santander Fullstack Develpoer
+
+Básico
+1 hrs
+
+Trabalhando com Módulos em JavaScript
+
+Básico
+1 hrs
+
+Manipulando a D.O.M. com JavaScript
+
+Básico
+1 hrs
+========================
+Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+
+Intermediário
+2 hrs
+
+Introdução Prática ao TypeScript

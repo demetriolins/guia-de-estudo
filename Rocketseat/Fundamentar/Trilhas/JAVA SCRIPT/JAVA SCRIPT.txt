@@ -1,0 +1,10 @@
+Guia Estelar JavaScript
+4h59min em 73 aulas
+
+As aulas deste conjunto abordam: 
+tipos de dados, 
+variáveis, 
+funções, 
+manipulação de dados, 
+expressões
+aplicabilidade dos recursos.

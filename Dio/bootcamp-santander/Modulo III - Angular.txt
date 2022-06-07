@@ -1,0 +1,47 @@
+Introdução ao Angular 8
+Básico
+5 hrs
+
+Trabalhando com Páginas SPA com Angular
+Avançado
+2 hrs
+
+A arquitetura de componentes e a gestão da complexidade no front-end
+Intermediário
+2 hrs
+
+Instalando e Preparando o Ambiente Angular
+Básico
+2 hrs
+
+Explorando Diretivas com Angular
+Intermediário
+2 hrs
+
+Implementando Serviços e Injeção de Dependências com Angular
+Intermediário
+2 hrs
+
+Introdução a Serviços Assíncronos no Angular
+Intermediário
+3 hrs
+
+O Poder do Data Binding no Angular
+Intermediário
+2 hrs
+
+Trabalhando com Componentes em Angular
+Intermediário
+2 hrs
+
+Criação de Pipes com Angular
+Intermediário
+2 hrs
+
+Desafios Intermediários Js - Santander Fullstack Developer
+Básico
+1 hrs
+
+Como criar um front-end de um e-commerce utilizando Angular
+Básico
+1 hrs
